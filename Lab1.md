@@ -4,7 +4,7 @@ Email   : <anhphan21@outlook.com>
 
 Date    : December, 2021
 
-# Lab 1-EE331 tutorial
+# Lab 1 - EE331 tutorial - Operation of Diode
 
 __Getting started with LTSPICE__: [link](http://www.simonbramble.co.uk/lt_spice/ltspice_lt_spice.htm)
 
