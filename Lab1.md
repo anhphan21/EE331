@@ -39,7 +39,7 @@ Model for component:
 Set up:
     
     R1  = 100, 1k, 10k, 100k, 1M, 10M
-    D1  = 1N4007, 1N5189
+    D1  = 1N4007, 1N5819
     VSS = 10V
 
 Using .param to save your time
@@ -91,7 +91,7 @@ parallel resistance on the observed I-V characteristics of a diode.
 
 ```Object```: 1N4732
 
-Library for Zenner diode 1N4732: [Link](http://www.simonbramble.co.uk/lt_spice/ltspice_lt_spice_models.htm)
+Library for Zenner diode 1N4732: [Link](https://www.opel.ece.vt.edu/reference/datasheets.html)
 
 ```Measure```: I-V characteristic of original 1N4732
 
